@@ -1,0 +1,2 @@
+class Dirigeant < ApplicationRecord
+end
